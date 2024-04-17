@@ -1,4 +1,4 @@
-<h1 align="center">Assalomu Alaykum Isim: Akbarshox Mashrabov</h1>
+<h1 align="center">Assalomu Alaykum Ism: Akbarshox Mashrabov</h1>
 <h3 align="center">Front-end developer</h3>
 
 <h3 align="left">Connect with me:</h3>
